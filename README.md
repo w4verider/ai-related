@@ -9,6 +9,7 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
 **Text to Video**
  - [HeyGen](https://heygen.com) Produce studio-quality videos with AI-generated avatars and voices.
  - [Synthesia](https://www.synthesia.io/) Create videos with AI avatars and voiceovers in 130+ languages
+ - [D-ID Studio](https://studio.d-id.com/) Tools to produce stunning videos featuring digital people.
 
 **Content Creation**
 
@@ -16,11 +17,17 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
  - [Captions.ai](https://www.captions.ai/) AI powered creative studion.
  - [Simplified](simplified.com) Create anything you can imagine with AI on your side.
  - [Podcastle](https://podcastle.ai/) AI-powered podcasting software
+
+ **Answer Engine**
+ 
+ - [Perplexity.ai](https://perplexity.ai/) A conversational search engine that answers queries using natural language predictive text, utilizing sources from the web.
+ - [OpenSource LLM answer engine](https://github.com/developersdigest/llm-answer-engine) A sophisticated answer engine that leverages the capabilities of Groq, Mistral AI's Mixtral, Langchain.JS, Brave Search, Serper API, and OpenAI. 
 ## LLMs
 
  - [LM Studio](lmstudio.ai) Discover, download, and run local LLMs
 	 - _Tutorial_ [# Run ANY Open-Source LLM Locally](https://www.youtube.com/watch?v=4fdZwKg9IbU)
-
+ - [Ollama](https://ollama.com) Get up and running with large language models, _locally_
+ 
 ## Frameworks
 **Something**
 
