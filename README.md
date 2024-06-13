@@ -1,7 +1,10 @@
 # Everything AI
 Dealing with AI information overload. A curated list of AI related resouces [^1]
 
-## AI Tools  
+## AI Tools 
+**General**
+- [Supertools]([https://myvoice.speechify.com/](https://supertools.therundown.ai/)) The most useful AI tools — organized and categorized in one spot.
+
 **Generative Voice**
  - [Speechify](https://myvoice.speechify.com/) Record your voice and produce it using text to speech.
  - [IIElevenLabs](https://elevenlabs.io/) Create natural AI voices instantly in any language. Text to speech. **_Speech to Speech_** 
