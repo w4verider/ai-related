@@ -24,7 +24,10 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
  **Answer Engine**
  
  - [Perplexity.ai](https://perplexity.ai/) A conversational search engine that answers queries using natural language predictive text, utilizing sources from the web.
- - [OpenSource LLM answer engine](https://github.com/developersdigest/llm-answer-engine) A sophisticated answer engine that leverages the capabilities of Groq, Mistral AI's Mixtral, Langchain.JS, Brave Search, Serper API, and OpenAI. 
+ - [OpenSource LLM answer engine](https://github.com/developersdigest/llm-answer-engine) A sophisticated answer engine that leverages the capabilities of Groq, Mistral AI's Mixtral, Langchain.JS, Brave Search, Serper API, and OpenAI.
+
+**Graphics Design**
+- [Log Diffusion](https://logodiffusion.com/) Create unique & custom logos without relying on stock designs. Start with a sketch or a prompt & control every aspect of your logo design process.
 ## LLMs
 
  - [LM Studio](lmstudio.ai) Discover, download, and run local LLMs
