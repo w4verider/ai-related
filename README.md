@@ -28,6 +28,7 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
 
 **Graphics Design**
 - [Log Diffusion](https://logodiffusion.com/) Create unique & custom logos without relying on stock designs. Start with a sketch or a prompt & control every aspect of your logo design process.
+- [Kolors Virtual Try-On](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On). Upload a person, upload a garment and see the result.
 ## LLMs
 
  - [LM Studio](lmstudio.ai) Discover, download, and run local LLMs
