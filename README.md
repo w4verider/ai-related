@@ -43,7 +43,8 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
 
 # Learning
 - [LLM University - Cohere](https://cohere.com/llmu)
+  
 **Prompt Engineering
-  - [Runway-Gen3 Alpha prompting guide](https://help.runwayml.com/hc/en-us/articles/30586818553107-Gen-3-Alpha-Prompting-Guide)
+- [Runway-Gen3 Alpha prompting guide](https://help.runwayml.com/hc/en-us/articles/30586818553107-Gen-3-Alpha-Prompting-Guide)
   
 [^1]: edited using [stackedit.io](https://stackedit.io)
