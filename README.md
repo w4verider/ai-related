@@ -41,4 +41,6 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
  - [LeMUR](https://www.assemblyai.com/docs/getting-started/apply-llms-to-audio-files) framework that lets you apply LLMs to audio transcripts, for example to ask questions about a call, or to summarize a meeting.
  - [Haystack](https://haystack.deepset.ai/) Open source Python framework by deepset for building custom apps with large language models.
 
+# Learning
+- [LLM University - Cohere](https://cohere.com/llmu)
 [^1]: edited using [stackedit.io](https://stackedit.io)
