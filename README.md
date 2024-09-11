@@ -4,6 +4,7 @@ Dealing with AI information overload. A curated list of AI related resouces [^1]
 ## AI Tools 
 **General**
 - [Supertools](https://supertools.therundown.ai/) The most useful AI tools - organized and categorized in one spot.
+- [There is an AI for that](https://theresanaiforthat.com/) Great portal for finding AI tools and services.
 
 **Generative Voice**
  - [Speechify](https://myvoice.speechify.com/) Record your voice and produce it using text to speech.
